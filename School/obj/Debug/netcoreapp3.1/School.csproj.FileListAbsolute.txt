@@ -1,0 +1,473 @@
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.Manifest.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.xml
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.Views.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\School.Views.pdb
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.input.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.output.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.RazorCoreGenerate.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.Views.pdb
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayman\source\repos\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\School.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\NewSchool.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\EditSchool.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\EditTeachers.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\ListOfTeachers.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\NewTeachers.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\EditSubjects.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\ListOfSubjects.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\NewSubjects.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfClass.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\NewSchoolClass.cshtml.g.cs
+C:\Users\Ayman\source\repos\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\EditSchoolClass.cshtml.g.cs
+F:\School\School\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\School\School\bin\Debug\netcoreapp3.1\appsettings.json
+F:\School\School\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\School\School\bin\Debug\netcoreapp3.1\School.exe
+F:\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+F:\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+F:\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+F:\School\School\bin\Debug\netcoreapp3.1\School.dll
+F:\School\School\bin\Debug\netcoreapp3.1\School.pdb
+F:\School\School\bin\Debug\netcoreapp3.1\School.Views.dll
+F:\School\School\bin\Debug\netcoreapp3.1\School.Views.pdb
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\School\School\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\School\School\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\School\School\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\School\School\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.MvcApplicationPartsAssemblyInfo.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cs
+F:\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+F:\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.input.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.output.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.RazorCoreGenerate.cache
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\EditSchoolClass.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfClass.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfSchool.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\NewSchoolClass.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\EditSchool.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\ListOfSchool.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\NewSchool.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfClass.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfSchool.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\EditSubjects.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\ListOfSubjects.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\NewSubjects.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\EditTeachers.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\ListOfTeachers.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\NewTeachers.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cache
+F:\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cs
+F:\School\School\obj\Debug\netcoreapp3.1\School.Views.pdb
+F:\School\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+F:\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.Manifest.cache
+F:\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.xml
+F:\School\School\obj\Debug\netcoreapp3.1\School.dll
+F:\School\School\obj\Debug\netcoreapp3.1\School.pdb
+F:\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfStudent.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\NewStudent.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\EditStudent.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfTeachers.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfSubjects.cshtml.g.cs
+F:\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfTeatcherSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.csprojAssemblyReference.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.csproj.CoreCompileInputs.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.RazorAssemblyInfo.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfoInputs.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.AssemblyInfo.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.input.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.TagHelpers.output.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.RazorCoreGenerate.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\EditSchoolClass.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfClass.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SchoolClass\NewSchoolClass.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\EditSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\School\NewSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\EditStudent.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfClass.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\ListOfStudent.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Students\NewStudent.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\EditSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\ListOfSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Subjects\NewSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ListOfClass.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ListOFDays.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ListOfSchool.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ListOfTeatcherAndSubject.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfTeachers.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\TeachersAndSubject\ListOfTeatcherSubjects.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\EditTeachers.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\ListOfTeachers.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\Teachers\NewTeachers.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.RazorTargetAssemblyInfo.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.dll
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.pdb
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.exe
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.deps.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.runtimeconfig.dev.json
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.pdb
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.Views.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\School.Views.pdb
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Ayman Nagy\Desktop\School\School\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.Views.pdb
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.csproj.CopyComplete
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.Manifest.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\staticwebassets\School.StaticWebAssets.xml
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\School.genruntimeconfig.cache
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ViewTeatcherAndSubject.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ClassTableDaily.cshtml.g.cs
+C:\Users\Ayman Nagy\Desktop\School\School\obj\Debug\netcoreapp3.1\Razor\Views\SubjectTable\ClassTable.cshtml.g.cs

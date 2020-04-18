@@ -1,0 +1,39 @@
+﻿@model School.Models.ViewModel.ClassTableDailyViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+    <table class="table table-hover text-nowrap">
+        <thead>
+            <tr>
+                <th>
+                    @Model.ListOfSubDay.Select(x => x.Day.DayName).FirstOrDefault()
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+          @foreach (var ClassName in Model.ListOfClass)
+          {
+            <tr>
+                <td>@ClassName.ClassName</td>
+                    @foreach (var Sub in Model.ListOfSubDay)
+                    {
+                        if (ClassName.SchoolClassID == Sub.SchoolClassID)
+                            {
+                                <td>
+                                    @Sub.TeachersAndSubject.teacher.TeacherName
+                                <br />
+                                    @Sub.TeachersAndSubject.Subject.SubjectName
+                                </td>
+                            }
+                    }
+            </tr>
+          }
+        </tbody>
+       </table>
+<p>To Print Press CTRL+P</p>
+
+
+

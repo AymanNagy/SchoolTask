@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Schools>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-sm-12 mb-3">
+        <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for names..">
+    </div>
+</div>
+
+<div class="row" id="myItems">
+
+    @foreach (var School in Model)
+    {
+        
+            <div class="card card-info col-sm-3" style="margin:10px; padding:0">
+                <div class="card-header">
+                    <h3 class="card-title">School</h3>
+                </div>
+                <div class="card-body">
+                    Name : @School.SchoolName
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink("Edit", "EditSchool", "School", new { SchoolID = School.SchoolID }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Delete", "DeleteSchool", "School", new { SchoolID = School.SchoolID }, new { @class = "btn btn-danger" })
+                </div>
+            </div>
+        
+    }
+
+    
+        <div class="card card-info col-sm-3 offset-1" style="margin:10px; padding:0">
+            <div class="card-header">
+                <h3 class="card-title">School</h3>
+            </div>
+            <div class="card-body">
+                Add New School
+            </div>
+            <div class="card-footer">
+                @Html.ActionLink("New", "NewSchool", "School", null, new { @class = "btn btn-success" })
+            </div>
+        </div>
+    
+</div>

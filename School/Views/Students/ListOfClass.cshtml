@@ -1,0 +1,49 @@
+﻿@model   School.Models.ViewModel.StudentsViewModel  ;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+    <div class="row">
+        <div class="col-sm-12 mb-3">
+            <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for names..">
+        </div>
+    </div>
+
+    <div class="row" id="myItems">
+        @foreach (var SchoolClass in Model.ListOfSchoolClass)
+        {
+            <div class="card card-info col-sm-3" style="margin:10px; padding:0">
+                    <div class="card-header">
+                        <h3 class="card-title">Class</h3>
+                    </div>
+                    <div class="card-body">
+                        Name : @SchoolClass.ClassName
+                    </div>
+                    <div class="card-footer">
+                        @Html.ActionLink("View", "ListOfStudent", "Students", new { CLassID = SchoolClass.SchoolClassID }, new { @class = "btn btn-success" })
+                    </div>
+                </div>
+        }
+
+
+
+        @*<div class="col-sm-3" >
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">School</h3>
+                </div>
+                <div class="card-body">
+                    The body of the card
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-danger" })
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-warning" })
+                </div>
+            </div>
+        </div>*@
+
+
+
+    </div>

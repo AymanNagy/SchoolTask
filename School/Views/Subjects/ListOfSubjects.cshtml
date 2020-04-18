@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Subjects>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="row">
+        <div class="col-sm-12 mb-3">
+            <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for names..">
+        </div>
+    </div>
+    <div class="row" id="myItems">
+
+
+
+        @foreach (var Subjects in Model)
+        {
+            <div class="card card-info col-sm-3" style="margin:10px; padding:0">
+                    <div class="card-header">
+                        <h3 class="card-title">Subject</h3>
+                    </div>
+                    <div class="card-body">
+                        Name : @Subjects.SubjectName
+                    </div>
+                    <div class="card-footer">
+                        @Html.ActionLink("Edit", "EditSubjects", "Subjects", new { SubjectsID = Subjects.SubjectsID }, new { @class = "btn btn-warning" })
+                        @Html.ActionLink("Delete", "DeleteSubjects", "Subjects", new { SubjectsID = Subjects.SubjectsID }, new { @class = "btn btn-danger" })
+                    </div>
+                </div>
+        }
+
+        <div class="card card-info col-sm-3" style="margin:10px; padding:0">
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">Subject</h3>
+                </div>
+                <div class="card-body">
+                    Add New Subject
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink("New", "NewSubjects", "Subjects", null, new { @class = "btn btn-success" })
+                </div>
+            </div>
+        </div>
+
+        @*<div class="col-sm-3" >
+            <div class="card card-info">
+                <div class="card-header">
+                    <h3 class="card-title">School</h3>
+                </div>
+                <div class="card-body">
+                    The body of the card
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-danger" })
+                    @Html.ActionLink("Save", "Save", "Save", null, new { @class = "btn btn-warning" })
+                </div>
+            </div>
+        </div>*@
+
+
+
+    </div>

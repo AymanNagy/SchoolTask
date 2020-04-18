@@ -1,0 +1,35 @@
+﻿@model IEnumerable<School.Models.Database.SubjectTable>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-sm-12 mb-3">
+        <input type="text" id="myFilter" class="form-control" onkeyup="myFunction()" placeholder="Search for names..">
+    </div>
+</div>
+
+<div class="row" id="myItems">
+
+    @foreach (var Sub in Model)
+    {
+        
+            <div class="card card-info col-sm-3" style="margin:10px; padding:0">
+                <div class="card-header">
+                    <h3 class="card-title">Subjects And Teatcher</h3>
+                </div>
+                <div class="card-body">
+                    Name : @Sub.TeachersAndSubject.teacher.TeacherName
+                    <br />
+                    Subject : @Sub.TeachersAndSubject.Subject.SubjectName
+                </div>
+                <div class="card-footer">
+                    @Html.ActionLink("Delete", "DeleteTeatcherAndSubject", "SubjectTable", new { SubjectTableID = Sub.SubjectTableID}, new { @class = "btn btn-success" })
+                </div>
+            </div>
+        
+    }
+
+    
+
+    
+</div>

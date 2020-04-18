@@ -1,0 +1,17 @@
+﻿@model School.Models.ViewModel.SchoolClassViewModel
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form enctype="multipart/form-data" asp-controller="SchoolClass" asp-action="NewSchoolClass"  asp-route-SchoolID=@Model.SchoolID post" class="mt-3">
+    <div class="form-group row">
+        <label asp-for="@Model.SchoolClass.ClassName" class="col-form-label"></label>
+        <input asp-for="@Model.SchoolClass.ClassName"  class="form-control" />
+        <span asp-validation-for="@Model.SchoolClass.ClassName"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-success">Save</button>
+    </div>
+</form>
+

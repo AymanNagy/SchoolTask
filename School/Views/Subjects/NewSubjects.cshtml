@@ -1,0 +1,17 @@
+﻿@model Subjects
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form enctype="multipart/form-data" asp-controller="Subjects" asp-action="NewSubjects"  method="post" class="mt-3">
+    <div class="form-group row">
+        <label asp-for="@Model.SubjectName" class="col-form-label"></label>
+        <input asp-for="@Model.SubjectName"  class="form-control" />
+        <span asp-validation-for="@Model.SubjectName"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-success">Save</button>
+    </div>
+</form>
+
